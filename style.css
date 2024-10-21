@@ -80,5 +80,5 @@
 }
 
 .escola, .estudante {
-    background: image(fundo.png)
+    background-image: url("fundo.jpg");
 }
