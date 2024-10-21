@@ -82,5 +82,5 @@
 .escola, .estudante {
     background-image: url("fundo.jpg");
     height: 600px;
-    transform: rotate(90);
+    transform: rotate(180)
 }
