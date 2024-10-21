@@ -22,13 +22,13 @@
 .cabecalho-imagem {
     width: 90px;
     height: 50px;
-    border-radius: 40%;
+    border-radius: 60%;
 }
 
 .cabecalho-lista-item {
     display: inline-block;
-    margin: 0 50px;
-    font-size: 45px;
+    margin: 0 24px;
+    font-size: 18px;
 }
 
 .escola-imagem {
