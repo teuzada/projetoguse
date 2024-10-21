@@ -79,11 +79,11 @@
     grid-template-columns: 20% 20% 20% 20% 20%;
 }
 
-.escola {
+.estudante {
     background-image: url("fundo.jpg");
     height: 600px;
 }
 
-.estudante {
+.escola {
     height: 100px;
 }
