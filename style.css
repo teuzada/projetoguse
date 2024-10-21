@@ -80,5 +80,5 @@
 }
 
 .escola, .estudante {
-    background-color: pink;
+    background: image(fundo.png)
 }
