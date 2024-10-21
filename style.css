@@ -20,15 +20,15 @@
 }
 
 .cabecalho-imagem {
-    width: 90px;
-    height: 50px;
+    width: 100px;
+    height: 90px;
     border-radius: 60%;
 }
 
 .cabecalho-lista-item {
     display: inline-block;
-    margin: 0 24px;
-    font-size: 18px;
+    margin: 0 16px;
+    font-size: 20px;
 }
 
 .escola-imagem {
@@ -40,7 +40,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    padding: 15px 0;
+    padding: 24px 0;
 }
 
 .escola-conteudo {
