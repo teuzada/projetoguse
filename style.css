@@ -79,12 +79,8 @@
     grid-template-columns: 20% 20% 20% 20% 20%;
 }
 
-.estudante {
+.escola, .estudante {
     background-image: url("fundo.jpg");
     height: 600px;
     transform: rotate(90);
-}
-
-.escola-imagem {
-    height: 100%;
 }
