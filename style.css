@@ -81,4 +81,5 @@
 
 .escola, .estudante {
     background-image: url("fundo.jpg");
+    height: 100%;
 }
