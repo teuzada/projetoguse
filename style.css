@@ -20,11 +20,11 @@
 }
 
 .cabecalho-imagem {
-    position: relative;
+    position: absolute;
     width: 150px;
     height: 200px;
     border-radius: 60%;
-    padding: 0;
+    padding: 0px;
     margin-left: 10px;
     align-items: left;
 }
